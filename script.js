@@ -2,4 +2,4 @@
 const url = window.location.href;
 const len = url.length;
 
-alert(len-1);
+alert(len+1);
